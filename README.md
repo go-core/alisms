@@ -6,7 +6,7 @@
 package main
 
 import (
-	"github.com/qinxin0720/alisms-go/SmsClient"
+	"github.com/go-core/alisms"
 	"net/http"
 	"log"
 )
